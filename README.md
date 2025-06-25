@@ -17,7 +17,7 @@ A Model Context Protocol (MCP) server implementation in Java that provides syste
 
 1. Clone the repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/asahasrabuddhe/mcp-sysinfo-java.git
    cd sysinfo-java
    ```
 
